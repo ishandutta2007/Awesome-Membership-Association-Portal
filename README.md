@@ -56,7 +56,7 @@ Commercial, cloud-hosted Membership and Association Portal platforms. Platforms 
 
 ## 🟩 Open-Source Software 💻
 
-Self-hosted, community-driven Membership and Association Portal tools. Repositories are ranked and sorted in descending order by GitHub Stars_Count.
+Self-hosted, community-driven Membership and Association Portal tools. Repositories are ranked and sorted in descending order by GitHub_Stars_Count.
 
 ### ⛪ [ChurchCRM](https://github.com/ChurchCRM/CRM) [![GitHub_Stars](https://img.shields.io/github/stars/ChurchCRM/CRM?style=social&color=white)](https://github.com/ChurchCRM/CRM/stargazers)
 - ⚙️ **Stack:** PHP / MySQL | 📜 **License:** MIT
